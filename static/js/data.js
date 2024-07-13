@@ -1,13 +1,12 @@
 const routes = [
   {name: '虾米解析', url: 'https://jx.xmflv.com/?url='},
   {name:"纯净1",url:"https://im1907.top/?jx="},
-  {name: 'BL解析', url: 'https://svip.bljiex.cc/?v='}, 
   {name:"七哥",url:"https://jx.nnxv.cn/tv.php?url="},
-  {name:"冰豆",url:"https://bd.jx.cn/?url="},
   {name:"M3U8",url:"https://jx.m3u8.tv/jiexi/?url="},
   {name:"JY",url:"https://jx.playerjy.com/?url="},
   {name:"8090",url:"https://www.8090g.cn/?url="},
   {name:"PM",url:"https://www.playm3u8.cn/jiexi.php?url="},
+  {name: 'BL解析', url: 'https://svip.bljiex.cc/?v='}, 
   
 ]
 
