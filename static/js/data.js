@@ -7,6 +7,7 @@ const routes = [
   {name:"8090",url:"https://www.8090g.cn/?url="},
   {name:"PM",url:"https://www.playm3u8.cn/jiexi.php?url="},
   {name: 'BL解析', url: 'https://svip.bljiex.cc/?v='}, 
+  {name:"云析",url:"https://jx.yparse.com/index.php?url="},
   
 ]
 
@@ -17,5 +18,5 @@ const other = [
   {name: '夜幕', url: 'https://yemu.xyz/shouye/'},
   {name: 'LQQ', url: 'https://v.ctrlqq.com/'},
   {name: '影猫の仓库 ', url: 'https://ymck.pro/search.html?wd='}, 
-  {name:"云析",url:"https://jx.yparse.com/index.php?url="},
+
 ]
